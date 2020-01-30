@@ -1,37 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ningzhibin/ningzhibin.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a test page, exported by wp2static plugin in wordpress. 
+It provides a new way for static website building using wordpress for non-programmers. 
+A wordpress server (it could be wordpress official site, but function very limited unless pay the business plan, recommend installation on local computers, or amason cloud if you need better accessbility and stability) is needed for website buidling, once build up, you can export the website as a static website, hosted anywhere (github, gitlab etc.) and shutdown the wordpress server unless needed again to update your website. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ningzhibin/ningzhibin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
