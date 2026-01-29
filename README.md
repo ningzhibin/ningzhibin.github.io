@@ -6,4 +6,5 @@
 * [Proteomics Resource Center wiki](https://ningzhibin.github.io/PRC_wiki/)
 * [Proteomics Resource Center entrance](https://med.uottawa.ca/core-facilities/facilities/proteomic)
 * [practical questions about metaprotomics](https://ningzhibin.github.io/Practical_questions_in_metaproteomics/)
+* [Seqeuence Generator for Xcalibur MS run](https://ningzhibin.github.io/MSequence/)
 
