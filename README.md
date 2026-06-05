@@ -4,7 +4,7 @@
 * [Tech blog site: Not all about proteomics](https://ningzhibin.github.io/not_all_about_proteomics/)
 * [My personal publication library](https://ningzhibin.github.io/publication/)
 * [Proteomics Resource Center wiki](https://ningzhibin.github.io/PRC_wiki/)
-* [Proteomics Resource Center entrance](https://med.uottawa.ca/core-facilities/facilities/proteomic)
+* [Proteomics Resource Center entrance](https://www.uottawa.ca/faculty-medicine/research-and-innovation/core-facilities/proteomics)
 * [practical questions about metaprotomics](https://ningzhibin.github.io/Practical_questions_in_metaproteomics/)
 * [Seqeuence Generator for Xcalibur MS run](https://ningzhibin.github.io/MSequence/)
 * [Nebula: JS based proteomics analysis plateform in browser](https://ningzhibin.github.io/Nebula/)
