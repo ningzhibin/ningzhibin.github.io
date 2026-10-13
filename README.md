@@ -8,5 +8,5 @@
 * [practical questions about metaprotomics](https://ningzhibin.github.io/Practical_questions_in_metaproteomics/)
 * [Seqeuence Generator for Xcalibur MS run](https://ningzhibin.github.io/MSequence/)
 * [Nebula: JS based proteomics analysis plateform in browser](https://ningzhibin.github.io/Nebula/)
-* [Proteomics Resource Center muse wiki](https://ningzhibin.github.io/PRC_muse_wiki/)
+* [Proteomics muse wiki](https://ningzhibin.github.io/PRC_muse_wiki/)
 
